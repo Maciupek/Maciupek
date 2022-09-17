@@ -1,17 +1,10 @@
-### Hi there 👋
+### HI There 👋 I'm Maciupek
+![Discord-Maciupek#2137-blue](https://user-images.githubusercontent.com/109609413/190854824-b88665c6-6530-43d3-ab9b-06b01266bc87.svg)
 
-<!--
-**Maciupek/Maciupek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## - My project's:
+  🍉 ArbuzSCP RP 🍉
+# I'm Learning:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ![pobrany plik](https://user-images.githubusercontent.com/109609413/190854591-84a57306-adbc-41d3-962b-04b689d57c8e.jpg)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![pobrany plik](https://user-images.githubusercontent.com/109609413/190855429-54c2802d-c2e7-4752-91a9-31d1939f29ff.jpg)       ![c-sharp-c-logo-02F17714BA-seeklogo com](https://user-images.githubusercontent.com/109609413/190855532-24b8de30-a7b0-4ada-a5a3-59555a6c08f5.png)
 
