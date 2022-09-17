@@ -5,5 +5,7 @@
   🍉 ArbuzSCP RP 🍉
 # - I'm Learning:
 
-  ![pobrany plik](https://user-images.githubusercontent.com/109609413/190855429-54c2802d-c2e7-4752-91a9-31d1939f29ff.jpg)       ![c-sharp-c-logo-02F17714BA-seeklogo com](https://user-images.githubusercontent.com/109609413/190855532-24b8de30-a7b0-4ada-a5a3-59555a6c08f5.png)
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/109609413/190855429-54c2802d-c2e7-4752-91a9-31d1939f29ff.jpg" width="125"/>
+  <img src="https://user-images.githubusercontent.com/109609413/190855532-24b8de30-a7b0-4ada-a5a3-59555a6c08f5.png" width="125"/>
+</div>
