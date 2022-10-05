@@ -2,7 +2,7 @@
 ![Discord-Maciupek#2137-blue](https://user-images.githubusercontent.com/109609413/190854824-b88665c6-6530-43d3-ab9b-06b01266bc87.svg)
 
 ## - My project's:
-  🍉 ArbuzSCP RP 🍉
+  🍉 ArbuzSCP 🍉
 # - I'm Learning:
 
 <div align="center">
