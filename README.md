@@ -13,7 +13,7 @@
 
 [More About Me](README.md#toolsprograms-i-use)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ceglaa&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceglaa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 **<details><summary>Tools/Programs i use</summary>**
