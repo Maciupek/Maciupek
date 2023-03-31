@@ -29,5 +29,5 @@
 
 ### 🌐 My Socials 🌐
 
-[![YouTube](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/youtube-icon.png)](https://www.youtube.com/channel/UCl59l-sj9dlIairoM_ljl5A) &nbsp;
+[![YouTube](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/youtube-icon.png)]([https://www.youtube.com/channel/UCl59l-sj9dlIairoM_ljl5A](https://www.youtube.com/channel/UChZv2-oj2bgLTv_KV89a0xQ)) &nbsp;
 [![Discord](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/discord-icon.png)](https://discordapp.com/users/630447695559131156) &nbsp;
