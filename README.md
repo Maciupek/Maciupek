@@ -7,7 +7,7 @@
 ### 📚 Learning 📚
 - [x] C#
   - [x] Basics of C#
-  - [ ] [EXILED](https://www.spigotmc.org/) API/Framework for SCP:SL
+  - [ ] [EXILED](https://github.com/Exiled-Team/EXILED/) API/Framework for SCP:SL
 - [ ] Learn [NextJS](https://nextjs.org)
 - [x] Learn HTML & CSS
 <br>
