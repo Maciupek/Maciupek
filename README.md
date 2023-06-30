@@ -1,7 +1,7 @@
 ## Hi I'm **Maciupek** 
 
 ### 🔧 What i am currently working on? 🔧
-- Plagowice HardRP Website
+- My SCP:SL Server ArbuzSCP
 - Creating my own game
 
 ### 📚 Learning 📚
