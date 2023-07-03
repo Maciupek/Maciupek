@@ -14,7 +14,7 @@
 
 [More About Me](README.md#toolsprograms-i-use)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Maciupek&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maciupek&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=maciupek&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maciupek&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
