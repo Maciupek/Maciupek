@@ -16,8 +16,8 @@
 - [x] C#
   - [x] Basics of C#
   - [ ] [EXILED](https://github.com/Exiled-Team/EXILED/) API/Framework for SCP:SL
-- [ ] Learn [NextJS](https://nextjs.org)
-- [x] Learn HTML & CSS
+- [ ] [NextJS](https://nextjs.org)
+- [x] HTML & CSS
 <br>
 
 ## 🌌 Discord
