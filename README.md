@@ -43,6 +43,7 @@
 **<details><summary>Tools/Programs i use</summary>**
 - C# Editor: [Visual Studio](https://visualstudio.microsoft.com/pl/)
 - WebDev Editor [Visual Studio Code](https://code.visualstudio.com/)
+- .dll De-compiler [Jetbrains dotPeek](https://www.jetbrains.com/decompiler/)
 </details>
 
 ### 🌐 My Socials 🌐
