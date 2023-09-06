@@ -1,4 +1,8 @@
-<img src="images/portada_oshi-no-ko.png" alt="Anime Oshi no ko">
+<img src="images/4355954.png" alt="Oshi no ko">
+
+<a href="https://wakatime.com/@Maciupek" target="_blank">
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=maciupek&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=📝+〢+Maciupek%27s+Wakatime+stats" alt="Wakatime stats">
+</a>
 
 ## 👋 Hi I'm **Maciupek** 
 
@@ -15,7 +19,7 @@
 ## 📝 Currently Learning 
 - [x] C#
   - [x] Basics of C#
-  - [ ] [EXILED](https://github.com/Exiled-Team/EXILED/) API/Framework for SCP:SL
+  - [x] [EXILED](https://github.com/Exiled-Team/EXILED/) API/Framework for SCP:SL
 - [ ] [NextJS](https://nextjs.org)
 - [x] HTML & CSS
 <br>
