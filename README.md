@@ -55,4 +55,4 @@
 
 [![YouTube](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/youtube-icon.png)](https://www.youtube.com/channel/UChZv2-oj2bgLTv_KV89a0xQ) &nbsp;
 [![Discord](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/discord-icon.png)](https://discordapp.com/users/630447695559131156) &nbsp;
-[![Steam](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/steam-icon.png)](https://steamcommunity.com/profiles/76561199088107688) &nbsp;
+[![Steam](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/steam-icon.png)](https://steamcommunity.com/profiles/76561199088107688) &nbsp;
