@@ -10,6 +10,7 @@
 - My SCP:SL Server ArbuzSCP
 - Creating my own game
 - ArbuzSCP Website
+- SCP:Winter Operation
 
 ## 🔥 My websites
 
@@ -23,6 +24,8 @@
   - [x] [EXILED](https://github.com/Exiled-Team/EXILED/) API/Framework for SCP:SL
 - [ ] [NextJS](https://nextjs.org)
 - [x] HTML & CSS
+- [ ] C++
+  - [ ] [UE5/Unreal Engine](https://www.unrealengine.com/en-US)
 <br>
 
 ## 🌌 Discord
