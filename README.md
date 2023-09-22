@@ -24,8 +24,9 @@
   - [x] [EXILED](https://github.com/Exiled-Team/EXILED/) API/Framework for SCP:SL
 - [ ] [NextJS](https://nextjs.org)
 - [x] HTML & CSS
-- [ ] C++
-  - [ ] [UE5/Unreal Engine](https://www.unrealengine.com/en-US)
+- [ ] [UE5/Unreal Engine](https://www.unrealengine.com/en-US)
+  - [ ] C++
+  - [ ] Blueprints 
 <br>
 
 ## 🌌 Discord
