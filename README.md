@@ -32,7 +32,7 @@
 ## 🌌 Discord
 
 <a href="https://arbuzscp.pl" target="_blank">
-    <div align="center"><img src="https://lanyard.cnrad.dev/api/630447695559131156?bg=151515&borderRadius=13px" width="47%" alt="Discord Status"></div>
+    <img src="https://lanyard.cnrad.dev/api/630447695559131156?theme=dark&bg=512B81&borderRadius=15px&animated=true&idleMessage=(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
 </a>
 
 ## 🌠 Profile Views
