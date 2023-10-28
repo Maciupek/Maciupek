@@ -15,7 +15,6 @@
 ## 🔥 My websites
 
 🌍 » [arbuzscp.pl](https://arbuzscp.pl)<br>
-✨ » [arbuzhost.arbuzscp.pl](https://arbuzhost.arbuzscp.pl)
 
 ## 📝 Currently Learning 
 - [x] C#
