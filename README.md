@@ -10,7 +10,6 @@
 - My SCP:SL Server ArbuzSCP
 - Plagowice HardRP
 - ArbuzSCP Website
-- SCP:Winter Operation
 
 ## 🔥 My websites
 
