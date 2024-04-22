@@ -1,4 +1,4 @@
-<img src="images/4355954.png" alt="Oshi no ko">
+<img src="images/337c623c52fcda255cb559d9c69af9bb.jpg" alt="Oshi no ko">
 
 <a href="https://wakatime.com/@Maciupek" target="_blank">
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=maciupek&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=📝+〢+Maciupek%27s+Wakatime+stats" alt="Wakatime stats">
@@ -9,11 +9,11 @@
 ### 🔧 What i am currently working on? 🔧
 - My SCP:SL Server ArbuzSCP
 - Plagowice HardRP
-- ArbuzSCP Website
+- Plagowice Website
 
 ## 🔥 My websites
 
-🌍 » [arbuzscp.pl](https://arbuzscp.pl)<br>
+🌍 » [arbuzscp.pl](https://plagowice.pl)<br>
 
 ## 📝 Currently Learning 
 - [x] C#
