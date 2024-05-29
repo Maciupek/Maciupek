@@ -6,14 +6,13 @@
 
 ## 👋 Hi I'm **Maciupek** 
 
-### 🔧 What i am currently working on? 🔧
-- My SCP:SL Server ArbuzSCP
+### 🔧 What I'm currently working on? 🔧
 - Plagowice HardRP
-- Plagowice Website
+- Project "HADES"
 
 ## 🔥 My websites
 
-🌍 » [arbuzscp.pl](https://plagowice.pl)<br>
+🌍 » [plagowice.pl](https://plagowice.pl)<br>
 
 ## 📝 Currently Learning 
 - [x] C#
