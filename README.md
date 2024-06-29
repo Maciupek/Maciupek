@@ -7,8 +7,7 @@
 ## 👋 Hi I'm **Maciupek** 
 
 ### 🔧〢 What I'm currently working on? 
-- Plagowice HardRP
-- Project "HADES"
+- ??
 
 ## 🔥〢 My websites
 
