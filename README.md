@@ -34,7 +34,7 @@
 ## 🌠〢 Profile Views
 
 <div align="center">
-    <img src="https://count.getloli.com/get/@maciupek-github-readme?theme=rule34" alt="Views" title="Profile views">
+    <img src="https://count.getloli.com/get/@maciupek-github-readme?theme=rule34" alt="Views" title="Profile views"><br>
     <i>Statistics have been collected since 03/07/2023.</i>
 </div>
 
