@@ -8,6 +8,7 @@
 
 ### 🔧〢 What I'm currently working on? 
 - ??
+- Some rblx projects
 
 ## 🔥〢 My websites
 
@@ -20,9 +21,9 @@
   - [x] [EXILED](https://github.com/Exiled-Team/EXILED/) API/Framework for SCP:SL
 - [ ] [NextJS](https://nextjs.org)
 - [x] HTML & CSS
-- [ ] [UE5/Unreal Engine](https://www.unrealengine.com/en-US)
-  - [ ] C++
-  - [ ] Blueprints 
+- [ ] [Roblox Studio](https://create.roblox.com)
+  - [ ] Luau
+  - [ ] [Moon Animator 2](https://create.roblox.com/store/asset/4725618216/Moon-Animator-2)
 <br>
 
 ## 🌌 〢 Discord
@@ -40,15 +41,14 @@
 
 ## 🎃〢 About Me
 
-<!-- [Tools i use](README.md#toolsprograms-i-use) -->
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=maciupek&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maciupek&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://raw.githubusercontent.com/maciupek/maciupek/output/github-contribution-grid-snake-dark.svg" alt="Snake"><br><br>
 
 **<details><summary>Tools/Programs i use</summary>**
 - C# Editor: [Visual Studio](https://visualstudio.microsoft.com/pl/)
-- WebDev Editor [Visual Studio Code](https://code.visualstudio.com/)
+- Game Dev: [Unity Engine](https://unity.com)
+- WebDev/Other Editor [Visual Studio Code](https://code.visualstudio.com/)
 - .dll De-compiler [Jetbrains dotPeek](https://www.jetbrains.com/decompiler/)
 </details>
 
