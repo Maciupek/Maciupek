@@ -28,7 +28,7 @@
 
 ## 🌌 〢 Discord
 
-<a href="https://plagowice.pl" target="_blank">
+<a href="https://github.com/Maciupek" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/630447695559131156?theme=dark&bg=512B81&borderRadius=15px&animated=true&idleMessage=(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
 </a>
 
@@ -56,4 +56,4 @@
 
 [![YouTube](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/youtube-icon.png)](https://www.youtube.com/channel/UChZv2-oj2bgLTv_KV89a0xQ) &nbsp;
 [![Discord](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/discord-icon.png)](https://discordapp.com/users/630447695559131156) &nbsp;
-[![Steam](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/steam-icon.png)](https://steamcommunity.com/profiles/76561199088107688) &nbsp;
+[![Steam](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/steam-icon.png)](https://steamcommunity.com/id/maciupek/) &nbsp;
