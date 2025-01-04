@@ -12,7 +12,7 @@
 
 ## 🔥〢 My websites
 
-🏠 » [plagowice.pl](https://plagowice.pl) • Plagowice HardRP main website<br>
+❓ » None, currently
 
 ## 📝〢 Currently Learning 
 - [x] C#
