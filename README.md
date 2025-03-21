@@ -1,14 +1,9 @@
 <img src="images/4355954.png" alt="Oshi no ko">
 
-<a href="https://wakatime.com/@Maciupek" target="_blank">
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=maciupek&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=📝+〢+Maciupek%27s+Wakatime+stats" alt="Wakatime stats">
-</a>
-
 ## 👋 Hi I'm **Maciupek** 
 
 ### 🔧〢 What I'm currently working on? 
 - ??
-- Some rblx projects
 
 ## 🔥〢 My websites
 
@@ -21,9 +16,9 @@
   - [x] [EXILED](https://github.com/Exiled-Team/EXILED/) API/Framework for SCP:SL
 - [ ] [NextJS](https://nextjs.org)
 - [x] HTML & CSS
-- [ ] [Roblox Studio](https://create.roblox.com)
-  - [ ] Luau
-  - [ ] [Moon Animator 2](https://create.roblox.com/store/asset/4725618216/Moon-Animator-2)
+- [ ] Java
+  - [ ] Minecraft Modding 
+  - [ ] [Fabric](https://fabricmc.net)
 <br>
 
 ## 🌌 〢 Discord
@@ -57,3 +52,9 @@
 [![YouTube](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/youtube-icon.png)](https://www.youtube.com/channel/UChZv2-oj2bgLTv_KV89a0xQ) &nbsp;
 [![Discord](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/discord-icon.png)](https://discordapp.com/users/630447695559131156) &nbsp;
 [![Steam](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/steam-icon.png)](https://steamcommunity.com/id/maciupek/) &nbsp;
+
+<!-- Maybe I'll just remove this soon !-->
+## 🌐〢 My wakatime Stats
+<a href="https://wakatime.com/@Maciupek" target="_blank">
+	<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=maciupek&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=📝+〢+Maciupek%27s+Wakatime+stats" alt="Wakatime stats">
+</a>
