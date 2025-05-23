@@ -1,15 +1,21 @@
-<img src="images/4355954.png" alt="Oshi no ko">
+<!-- Version: v7 !-->
+<img src="images/windblume.png" alt="Oshi no ko" width="100%" style="border-radius: 10px;">
 
-## 👋 Hi I'm **Maciupek** 
+---
 
-### 🔧〢 What I'm currently working on? 
-- ??
+<img align="right" src="https://lanyard.cnrad.dev/api/630447695559131156?theme=dark&bg=512B81&borderRadius=15px&animated=true&idleMessage=(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)" height="150px" alt="Discord Status">
 
-## 🔥〢 My websites
+### Hi! I'm Maciupek
 
+### 🔧 〢 What I'm currently working on?
+🛠️ » Project Opal • 👀
+
+### 🔥 〢 My websites
 ❓ » None, currently
 
-## 📝〢 Currently Learning 
+---
+
+### 📝 〢 Currently Learning
 - [x] C#
   - [x] Basics of C#
   - [ ] [Unity Engine](https://unity.com/download)
@@ -19,42 +25,56 @@
 - [ ] Java
   - [ ] Minecraft Modding 
   - [ ] [Fabric](https://fabricmc.net)
-<br>
 
-## 🌌 〢 Discord
-
+### 🌠 〢 Profile Views
 <a href="https://github.com/Maciupek" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/630447695559131156?theme=dark&bg=512B81&borderRadius=15px&animated=true&idleMessage=(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
+    <img src="https://count.getloli.com/get/@maciupek-github-readme?theme=rule34" alt="Views" title="Profile views">
 </a>
+<br><i>Statistics collected since 03/07/2023.</i>
 
-## 🌠〢 Profile Views
+<br><br><br>
+
+
+## 📊 〢 GitHub Analytics
 
 <div align="center">
-    <img src="https://count.getloli.com/get/@maciupek-github-readme?theme=rule34" alt="Views" title="Profile views"><br>
-    <i>Statistics have been collected since 03/07/2023.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=maciupek&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciupek&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="48%">
+</div>
+<br>
+
+---
+
+<details>
+<summary><b>🛠️ Tools & Programs I use</b></summary>
+
+- **C# Editor:** [Visual Studio](https://visualstudio.microsoft.com/pl/)
+- **Game Dev:** [Unity Engine](https://unity.com)
+- **WebDev/Other Editor:** [Visual Studio Code](https://code.visualstudio.com/)
+- **.dll De-compiler:** [Jetbrains dotPeek](https://www.jetbrains.com/decompiler/)
+
+</details>
+<br><br>
+
+### 🌐 〢 Links
+
+<div align="center">
+  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UChZv2-oj2bgLTv_KV89a0xQ)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/630447695559131156)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/maciupek/)
+
+</div>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maciupek/maciupek/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="90%">
 </div>
 
-## 🎃〢 About Me
+## 📈 〢 Coding Activity
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=maciupek&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maciupek&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://raw.githubusercontent.com/maciupek/maciupek/output/github-contribution-grid-snake-dark.svg" alt="Snake"><br><br>
-
-**<details><summary>Tools/Programs i use</summary>**
-- C# Editor: [Visual Studio](https://visualstudio.microsoft.com/pl/)
-- Game Dev: [Unity Engine](https://unity.com)
-- WebDev/Other Editor [Visual Studio Code](https://code.visualstudio.com/)
-- .dll De-compiler [Jetbrains dotPeek](https://www.jetbrains.com/decompiler/)
-</details>
-
-### 🌐〢 Links
-
-[![YouTube](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/youtube-icon.png)](https://www.youtube.com/channel/UChZv2-oj2bgLTv_KV89a0xQ) &nbsp;
-[![Discord](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/discord-icon.png)](https://discordapp.com/users/630447695559131156) &nbsp;
-[![Steam](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/steam-icon.png)](https://steamcommunity.com/id/maciupek/) &nbsp;
-
-<!-- Maybe I'll just remove this soon !-->
-## 🌐〢 My wakatime Stats
-<a href="https://wakatime.com/@Maciupek" target="_blank">
-	<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=maciupek&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=📝+〢+Maciupek%27s+Wakatime+stats" alt="Wakatime stats">
-</a>
+<div align="center">
+  <a href="https://wakatime.com/@Maciupek" target="_blank">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=maciupek&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=📝+〢+Coding+Time+Stats&hide_border=true" alt="Wakatime stats">
+  </a>
+</div>
