@@ -1,4 +1,4 @@
-<!-- Version: v7 !-->
+<!-- Version: v7.0.1 !-->
 <img src="images/windblume.png" alt="Oshi no ko" width="100%" style="border-radius: 10px;">
 
 ---
@@ -32,8 +32,7 @@
 </a>
 <br><i>Statistics collected since 03/07/2023.</i>
 
-<br><br><br>
-
+<br><br>
 
 ## 📊 〢 GitHub Analytics
 
