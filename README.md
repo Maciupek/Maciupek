@@ -8,7 +8,7 @@
 ### Hi! I'm Maciupek
 
 ### 🔧 〢 What I'm currently working on?
-❓ » None, currently
+❓ »
 
 ### 🔥 〢 My websites
 ❓ » None, currently
