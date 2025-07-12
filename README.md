@@ -69,11 +69,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/maciupek/maciupek/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="90%">
 </div>
-
-## 📈 〢 Coding Activity
-
-<div align="center">
-  <a href="https://wakatime.com/@Maciupek" target="_blank">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=maciupek&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=📝+〢+Coding+Time+Stats&hide_border=true" alt="Wakatime stats">
-  </a>
-</div>
